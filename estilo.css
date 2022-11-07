@@ -13,11 +13,6 @@ h1{
   color: white;
 }
 
-h2{
-  background-color: black;
-  color: greenyellow;
-}
-
 /*Especificidad 001*/
 a {
   background-color: black;
